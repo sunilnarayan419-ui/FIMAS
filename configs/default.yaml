@@ -1,0 +1,16 @@
+project:
+  name: FIMAS
+  stage: proposal
+  seed: 42
+
+simulation:
+  node_count: 20
+  edge_failure_fraction: 0.4
+  supply_shock_fraction: 0.5
+
+allocation:
+  method: proportional_baseline
+
+reproducibility:
+  record_seed: true
+  record_config: true
