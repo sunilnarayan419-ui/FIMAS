@@ -1,0 +1,7 @@
+services:
+  # Add API, database, and TypeScript services when their implementations are ready.
+  # Keep the proposal scaffold lightweight until service boundaries are validated.
+  placeholder:
+    image: alpine:3.20
+    command: ["sh", "-c", "echo 'FIMAS scaffold: services not configured yet'"]
+    profiles: ["scaffold"]
