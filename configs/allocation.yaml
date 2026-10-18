@@ -1,0 +1,4 @@
+allocation:
+  method: proportional_baseline
+  objective: minimize_unmet_demand
+  fairness_metric: jain
