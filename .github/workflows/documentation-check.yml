@@ -1,0 +1,18 @@
+ame: Documentation checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required proposal files
+        run: |
+          test -f README.md
+          test -f docs/research_proposal.md
+          test -f docs/research_questions.md
+          test -f docs/hypotheses.md
+          test -f research/literature/evidence_matrix.csv
