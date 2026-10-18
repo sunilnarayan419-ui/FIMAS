@@ -1,0 +1,10 @@
+experiment:
+  id: E04
+  name: market_supply_shock
+  status: protocol_only
+  supply_shock_fraction: 0.5
+  seeds: [11, 23, 42, 71, 101]
+  report:
+    - unmet_demand
+    - jain_fairness_index
+    - feasibility_violations
