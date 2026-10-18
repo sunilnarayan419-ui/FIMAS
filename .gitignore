@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# Environments and secrets
+.env
+.env.*
+!.env.example
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node / TypeScript
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Databases and generated data
+*.sqlite
+*.db
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/synthetic/*
+!data/synthetic/.gitkeep
+
+# Experiment outputs (keep only explicitly curated results)
+experiments/results/*
+!experiments/results/.gitkeep
+artifacts/figures/*
+!artifacts/figures/.gitkeep
+artifacts/tables/*
+!artifacts/tables/.gitkeep
+artifacts/reports/*
+!artifacts/reports/.gitkeep
+
+# Model weights / large outputs
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.parquet
+*.arrow
+*.h5
+*.hdf5
+
+# Notebooks are intentionally not part of this project
+*.ipynb
+.ipynb_checkpoints/
+
+# my files 
+fungi_tech_stack_requirements.md
+create_fimas_structure.py
