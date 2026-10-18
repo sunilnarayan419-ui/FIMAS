@@ -1,0 +1,6 @@
+etwork:
+  topology: path
+  node_count: 20
+  conductance_initial: 1.0
+  reinforcement_rate: 0.1
+  decay_rate: 0.05
