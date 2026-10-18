@@ -1,0 +1,10 @@
+experiment:
+  id: E03
+  name: optimizer_baseline_comparison
+  status: protocol_only
+  seeds: [11, 23, 42, 71, 101]
+  methods: [proportional_baseline, linear_programming]
+  report:
+    - objective_value
+    - runtime_seconds
+    - unmet_demand
