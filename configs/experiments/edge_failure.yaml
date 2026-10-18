@@ -1,0 +1,9 @@
+experiment:
+  id: E01
+  name: topology_resilience
+  status: protocol_only
+  edge_failure_fraction: 0.4
+  seeds: [11, 23, 42, 71, 101]
+  report:
+    - largest_component_fraction
+    - throughput_retained
