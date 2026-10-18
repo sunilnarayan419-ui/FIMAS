@@ -1,0 +1,4 @@
+market:
+  pricing_rule: illustrative_uniform
+  scarcity_premium: 0.0
+  equilibrium_solver_enabled: false
