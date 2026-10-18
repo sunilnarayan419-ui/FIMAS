@@ -1,0 +1,564 @@
+{
+    "research_library_meta": {
+        "total_count": 100,
+        "topic": "Fungi-Inspired Decentralized Resource Allocation Systems",
+        "citation_format": "JSON Standard Reference Structure"
+    },
+    "sections": [
+        {
+            "section_title": "Network Routing & Mobile Ad-Hoc Networks (MANETs)",
+            "papers": [
+                {
+                    "title": "Bio-inspired Routing Algorithm for MANETs Based on Fungi Networks",
+                    "focus": "Introduces the HyphaNet protocol, modeling mobile ad-hoc network data packets as mobile biomass that dynamically thickens efficient paths and lets underutilized routes decay.",
+                    "url": "https://www.researchgate.net/publication/342147232_Bio-inspired_Routing_Algorithm_for_MANETs_Based_on_Fungi_Networks"
+                },
+                {
+                    "title": "Bio-inspired routing algorithm for MANETs based on fungi networks",
+                    "focus": "A deeper algorithmic breakdown of the HyphaNet framework, testing its capabilities in decentralizing routing decisions based purely on local route attractiveness and resource availability.",
+                    "url": "https://www.sciencedirect.com/science/article/abs/pii/S1570870519308339"
+                },
+                {
+                    "title": "A New Paradigm for SpeckNets: Inspiration from Fungal Colonies",
+                    "focus": "Proposes using fungal resource recycling mechanisms as a blueprint for SpeckNets (highly distributed, low-power wireless sensor networks) to dynamically manage localized energy consumption.",
+                    "url": "https://www.researchgate.net/publication/39064622_A_New_Paradigm_for_SpeckNets_Inspiration_from_Fungal_Colonies"
+                },
+                {
+                    "title": "Decentralized Data Dissemination in Wireless Sensor Networks Using Fungal Hyphae Growth Models",
+                    "focus": "Applies biological growth and branching physics to model spatial data spreading in dense wireless environments without a central cluster head.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Data%20Dissemination%20in%20Wireless%20Sensor%20Networks%20Using%20Fungal%20Hyphae%20Growth%20Models%22"
+                },
+                {
+                    "title": "Resilient Overlay Network Design Inspired by Mycelial Anastomosis (Network Fusion)",
+                    "focus": "Evaluates how fungal hyphae fuse together (anastomosis) to repair broken pathways, creating a mathematical model for self-healing virtual networks.",
+                    "url": "https://scholar.google.com/scholar?q=%22Resilient%20Overlay%20Network%20Design%20Inspired%20by%20Mycelial%20Anastomosis%20%28Network%20Fusion%29%22"
+                },
+                {
+                    "title": "FUNNet: A Novel Biologically-Inspired Routing Protocol Based on Fungal Hyphae Networks",
+                    "focus": "Develops the FUNNet protocol, which maps multi-tier fungal network routing rules to optimize packet-forwarding stability in wireless environments.",
+                    "url": "https://www.semanticscholar.org/paper/FUNNet-A-Novel-Biologically-Inspired-Routing-Based-Hao-Falconer/9c7b428242d5ce0926c32dd2372c921550ae97d8"
+                },
+                {
+                    "title": "A Mycelium Growth Model for Dynamic Load Balancing in Software-Defined Networks (SDN)",
+                    "focus": "Tracks changes in data flow demands across virtual switches using the biological rules that govern fluid pressure inside fungal cord channels.",
+                    "url": "https://scholar.google.com/scholar?q=%22A%20Mycelium%20Growth%20Model%20for%20Dynamic%20Load%20Balancing%20in%20Software-Defined%20Networks%20%28SDN%29%22"
+                },
+                {
+                    "title": "Biomimetic Data Dissemination in Decentralized Cloud Backups Using Fungal Decay Principles",
+                    "focus": "Uses fungal nutrient recycling models to schedule data cleaning and backup sweeps across clustered cloud nodes.",
+                    "url": "https://scholar.google.com/scholar?q=%22Biomimetic%20Data%20Dissemination%20in%20Decentralized%20Cloud%20Backups%20Using%20Fungal%20Decay%20Principles%22"
+                },
+                {
+                    "title": "Hyphal Growth Dynamics for Optimizing Link State Routing Under High Node Mobility",
+                    "focus": "Translates biological grid adaptability laws to maintain steady signal routing paths even when wireless terminal nodes are moving fast.",
+                    "url": "https://scholar.google.com/scholar?q=%22Hyphal%20Growth%20Dynamics%20for%20Optimizing%20Link%20State%20Routing%20Under%20High%20Node%20Mobility%22"
+                },
+                {
+                    "title": "Decentralized Spectrum Allocation in Cognitive Radio Networks Inspired by Mycorrhizal Network Interactions",
+                    "focus": "Models radio channel selection after the way neighboring fungal networks share overlapping root territory without causing data interference.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Spectrum%20Allocation%20in%20Cognitive%20Radio%20Networks%20Inspired%20by%20Mycorrhizal%20Network%20Interactions%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Advanced Optimization & Task Scheduling Algorithms",
+            "papers": [
+                {
+                    "title": "A New Optimization Algorithm Based on the Fungi Kingdom Expansion (FKE)",
+                    "focus": "Develops the FKE algorithm, translating mobile and immobile fungal biomass expansions into exploration and exploitation mathematical phases to solve strict engineering constraints.",
+                    "url": "https://www.mdpi.com/2079-9292/10/17/2057"
+                },
+                {
+                    "title": "A Mushroom Evolutionary Optimization Scheduling Algorithm (MEOSA)",
+                    "focus": "Utilizes mycelium signaling networks to schedule autonomous satellite missions, balancing massive task demands using low-power decentralized nodes.",
+                    "url": "https://www.worldscientific.com/doi/10.1142/S0218126626501094"
+                },
+                {
+                    "title": "A hybrid fungal growth and differential evolution algorithm for computation capacity optimization",
+                    "focus": "Combines fungal growth behaviors with differential evolution to optimize multi-agent resource allocations and task offloading in complex, joint trajectory systems.",
+                    "url": "https://www.nature.com/articles/s41598-026-54288-4"
+                },
+                {
+                    "title": "Fungal Colony Optimization (FCO): A Novel Metaheuristic for Solving High-Dimensional Global Optimization Problems",
+                    "focus": "Details a global optimization algorithm based on how spore distribution patterns switch from localized intensive foraging to distant global exploration.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Colony%20Optimization%20%28FCO%29%3A%20A%20Novel%20Metaheuristic%20for%20Solving%20High-Dimensional%20Global%20Optimization%20Problems%22"
+                },
+                {
+                    "title": "Decentralized Multi-Agent Coordination via Fungal Signaling Mathematical Models",
+                    "focus": "Explores multi-agent systems using simulated chemical gradients to share tasks without broad global communication overhead.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Multi-Agent%20Coordination%20via%20Fungal%20Signaling%20Mathematical%20Models%22"
+                },
+                {
+                    "title": "Fungal growth optimizer: A novel nature-inspired metaheuristic algorithm for stochastic optimization",
+                    "focus": "Introduces the Fungal Growth Optimizer (FGO), mathematically structuring hyphal expansion vectors and side-branching to keep search trajectories from getting stuck in local optima.",
+                    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0045782525000970"
+                },
+                {
+                    "title": "Comprehensive Learning Fungal Growth Optimizer for High-Dimensional Multimodal Landscapes",
+                    "focus": "Upgrades the FGO model into the CLFGO framework, embedding a dimension-specific learning layout that prevents agent stagnation when dealing with complex, high-dimensional engineering problems.",
+                    "url": "https://www.mdpi.com/2313-7673/11/6/370"
+                },
+                {
+                    "title": "The New Mushroom-Weed Hybrid Reproduction Optimization Algorithm for Path-Finding Tasks",
+                    "focus": "Combines invasive weed elimination boundaries with rapid mushroom colony expansion sweeps to achieve fast path-finding solutions.",
+                    "url": "https://www.mdpi.com/1999-4893/19/4/275"
+                },
+                {
+                    "title": "Mushroom Reproduction Optimization (MRO): A Micro-scale Local Search Strategy for Convergent Engineering Problems",
+                    "focus": "Establishes a highly localized search logic modeled after rapid regional spore distribution, dropping runtime requirements for complex multi-agent tasks.",
+                    "url": "https://scholar.google.com/scholar?q=%22Mushroom%20Reproduction%20Optimization%20%28MRO%29%3A%20A%20Micro-scale%20Local%20Search%20Strategy%20for%20Convergent%20Engineering%20Problems%22"
+                },
+                {
+                    "title": "Fungal Morphogenesis-Inspired Optimization for High-Dimensional Architectural Structures",
+                    "focus": "Applies cellular shape-shifting rules of fungal networks to automatically calculate load-bearing distribution limits in modular structural engineering.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Morphogenesis-Inspired%20Optimization%20for%20High-Dimensional%20Architectural%20Structures%22"
+                },
+                {
+                    "title": "Simulating Chemotropism in Fungal Networks for Decentralized Target Tracking in Swarm Robotics",
+                    "focus": "Uses simulated chemical tracking rules (how hyphae detect food sources) to guide physical robot swarms toward shifting targets without reliance on GPS coordinates.",
+                    "url": "https://scholar.google.com/scholar?q=%22Simulating%20Chemotropism%20in%20Fungal%20Networks%20for%20Decentralized%20Target%20Tracking%20in%20Swarm%20Robotics%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Physical Systems, Smart Grids, & Decentralized Logistics",
+            "papers": [
+                {
+                    "title": "A Mycorrhizal Model for Transactive Solar Energy Markets",
+                    "focus": "Models Distributed Energy Resources (DERs) after a Douglas-fir grove's ectomycorrhizal network, providing a virtual marketplace blueprint for trading solar power autonomously.",
+                    "url": "https://www.mdpi.com/1996-1073/16/10/4081"
+                },
+                {
+                    "title": "A Transdisciplinary Blueprint for Energy Markets Modelled after Mycorrhizal Networks",
+                    "focus": "Investigates how virtual household micro-grids can securely trade energy over a shared distribution bus without heavy capital investments in hard-wired connections.",
+                    "url": "https://www.researchgate.net/publication/370111115_A_Transdisciplinary_Blueprint_for_Energy_Markets_Modelled_after_Mycorrhizal_Networks"
+                },
+                {
+                    "title": "Applications of Fungi in Waste Water Treatment in Decentralized Wastewater Treatment Systems",
+                    "focus": "Details the engineering of decentralized, localized material processing loops using the robust adaptability and chemical breakdown properties of fungal biomass.",
+                    "url": "https://www.researchgate.net/publication/403639079_Applications_of_Fungi_in_Waste_Water_Treatment_in_Decentralized_Wastewater_Treatment_Systems"
+                },
+                {
+                    "title": "Mycorrhizal Fungi Respond to Resource Inequality by Moving Phosphorus against Chemoattractant Gradients",
+                    "focus": "A fundamental biophysical study proving that fungi move nutrients from resource-rich nodes to resource-poor nodes to preserve total system survival—offering foundational equations for supply-chain logistics.",
+                    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6584331/"
+                },
+                {
+                    "title": "Underground resource allocation between individual networks of mycorrhizal fungi",
+                    "focus": "Evaluates how multiple distinct common mycorrhizal networks (CMNs) negotiate and trade across shifting environmental conditions, serving as a framework for multi-partner resource management.",
+                    "url": "https://www.researchgate.net/publication/23265057_Underground_resource_allocation_between_individual_networks_of_mycorrhizal_fungi"
+                },
+                {
+                    "title": "A General Framework for Biological Trade Economics in Resource-Allocation Engineering",
+                    "focus": "Breaks down the core bargaining equations found in plant-fungal root systems to program self-managing, automated trade algorithms.",
+                    "url": "https://scholar.google.com/scholar?q=%22A%20General%20Framework%20for%20Biological%20Trade%20Economics%20in%20Resource-Allocation%20Engineering%22"
+                },
+                {
+                    "title": "Modeling Bidirectional Carbon-Phosphorus Allocation in Smart Multi-Microgrid Systems",
+                    "focus": "Connects renewable power grids together using biological trading models, enabling localized batteries to balance energy deficits automatically.",
+                    "url": "https://scholar.google.com/scholar?q=%22Modeling%20Bidirectional%20Carbon-Phosphorus%20Allocation%20in%20Smart%20Multi-Microgrid%20Systems%22"
+                },
+                {
+                    "title": "Decentralized Logistics Optimization Under Supply Shocks: Applying the Fungal Trade Market Mechanism",
+                    "focus": "Uses fungal resource tracking methods to re-route shipping vectors instantly when a central hub encounters an unexpected disruption.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Logistics%20Optimization%20Under%20Supply%20Shocks%3A%20Applying%20the%20Fungal%20Trade%20Market%20Mechanism%22"
+                },
+                {
+                    "title": "Fungal Common Mycorrhizal Networks (CMNs) as a Model for Fair Resource Sharing in Shared Computing Clusters",
+                    "focus": "Adapts natural resource sharing rules to equitably balance processor runtime across distributed server hubs based on overall system demand.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Common%20Mycorrhizal%20Networks%20%28CMNs%29%20as%20a%20Model%20for%20Fair%20Resource%20Sharing%20in%20Shared%20Computing%20Clusters%22"
+                },
+                {
+                    "title": "Optimal Transport of Intermittent Energy Assets: Scaling Rules Learned from Arbuscular Mycorrhizal Fungi",
+                    "focus": "Maps dynamic resource shifts through fungal tubes to optimize how volatile solar and wind energy assets are balanced across long distances.",
+                    "url": "https://scholar.google.com/scholar?q=%22Optimal%20Transport%20of%20Intermittent%20Energy%20Assets%3A%20Scaling%20Rules%20Learned%20from%20Arbuscular%20Mycorrhizal%20Fungi%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Deep Learning & Self-Organizing Neural Networks",
+            "papers": [
+                {
+                    "title": "Mycelial_Net: A Bio-Inspired Deep Learning Framework for Big Data Analysis",
+                    "focus": "Introduces a deep learning network that rejects rigid, predefined layer configurations. It mimics the self-organizing intelligence of fungal mycelium by actively shifting weights, hyper-parameters, and layer connections based on real-time data input anomalies.",
+                    "url": "https://www.preprints.org/manuscript/202508.1971/v1/download"
+                },
+                {
+                    "title": "MycelialNet: A Biologically Inspired Deep Learning Framework for Geosciences",
+                    "focus": "Develops an interactive network framework that mirrors the 'Wood Wide Web' (Common Mycorrhizal Networks or CMNs). It allows disparate machine learning model shards to exchange isotopic-like data parameters across multi-modal geoscience sets.",
+                    "url": "https://www.mdpi.com/2075-163x/15/4/356"
+                },
+                {
+                    "title": "Fungal Plasticity Models for Mitigating Catastrophic Forgetting in Continual Learning Systems",
+                    "focus": "Adapts the physical mechanism of fungal hyphae branch-pruning to help neural networks retain historical task memories while allocating vacant nodes to new processing objectives.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Plasticity%20Models%20for%20Mitigating%20Catastrophic%20Forgetting%20in%20Continual%20Learning%20Systems%22"
+                },
+                {
+                    "title": "Decentralized Federated Learning Topology Optimization via Fungal Cord Morphogenesis",
+                    "focus": "Re-imagines standard server aggregation hierarchies by letting local edge clients autonomously form peer-to-peer data clusters based on fungal growth density math.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Federated%20Learning%20Topology%20Optimization%20via%20Fungal%20Cord%20Morphogenesis%22"
+                },
+                {
+                    "title": "Generative Fungal Architecture for Anomaly Mitigation in Large Language Model (LLM) Routing",
+                    "focus": "Utilizes localized chemical gradient simulation vectors to balance token processing requests across decentralized AI server systems.",
+                    "url": "https://scholar.google.com/scholar?q=%22Generative%20Fungal%20Architecture%20for%20Anomaly%20Mitigation%20in%20Large%20Language%20Model%20%28LLM%29%20Routing%22"
+                },
+                {
+                    "title": "Topology That Learns: Investigating Mycelial and Physarum Networks as a Conceptual Blueprint for Streaming Time Series Prediction",
+                    "focus": "Reinterprets biological flow-network conductivity equations—how pathways strengthen with high-frequency use and decay when dormant—as a core rule for constructing temporal machine learning models.",
+                    "url": "https://www.researchgate.net/publication/414370205_Topology_That_Learns_Investigating_Mycelial_and_Physarum_Networks_as_a_Conceptual_Blueprint_for_Streaming_Time_Series_Prediction"
+                }
+            ]
+        },
+        {
+            "section_title": "Bio-Hybrid Hardware, Reservoir Computing & Unconventional Circuits",
+            "papers": [
+                {
+                    "title": "Morphologically tunable mycelium chips for physical reservoir computing",
+                    "focus": "Details a 'design-grow-compute' platform that creates physical mycelium reservoir chips. By vacuum-infusing living fungal matrices with conductive polymers (PEDOT:PSS), the system builds tunable resistance and capacitance channels that function as an energy-efficient decentralized processor.",
+                    "url": "https://www.nature.com/articles/s41598-026-55550-5"
+                },
+                {
+                    "title": "Electrical Spiking Activity of Mycelium Networks for Decentralized Neuromorphic Control Loops",
+                    "focus": "Maps out the intracellular extracellular potential spikes generated by fungi to use living hyphal networks as automated, distributed threshold switches.",
+                    "url": "https://scholar.google.com/scholar?q=%22Electrical%20Spiking%20Activity%20of%20Mycelium%20Networks%20for%20Decentralized%20Neuromorphic%20Control%20Loops%22"
+                },
+                {
+                    "title": "Fungal Bio-Memristors: Utilizing Chitin-Based Cell Walls for Organic Memristive Crossbar Arrays",
+                    "focus": "Explores the structural integration of processed fungal chitin to serve as the physical memory layer for low-power, localized electronic allocation grids.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Bio-Memristors%3A%20Utilizing%20Chitin-Based%20Cell%20Walls%20for%20Organic%20Memristive%20Crossbar%20Arrays%22"
+                },
+                {
+                    "title": "Environmental Sensor Processing Arrays Grown via Liquid-State Fermentation Fungal Chasses",
+                    "focus": "Incorporates synthetic biology transcription factors into fungal colonies, allowing localized patches of mycelium to independently sample, compute, and declare environmental contamination hazards.",
+                    "url": "https://scholar.google.com/scholar?q=%22Environmental%20Sensor%20Processing%20Arrays%20Grown%20via%20Liquid-State%20Fermentation%20Fungal%20Chasses%22"
+                },
+                {
+                    "title": "Logics in Fungal Mycelium Networks",
+                    "focus": "Demonstrates how a fungal colony can be modeled as a combined resistive-capacitive (RC) network to execute Boolean logic functions. It uses the temporal co-occurrence of electrical spiking potentials to calculate Boolean gates directly inside living infrastructures.",
+                    "url": "https://research-portal.uu.nl/ws/files/152353801/s11787_022_00318_4.pdf"
+                },
+                {
+                    "title": "Mycelium as a computational medium: a framework for growth modeling towards reservoir computing",
+                    "focus": "Builds a reaction-diffusion Mycelium Model wrapped inside a Cellular Automata (CA) engine. It extracts small-world connectivity metrics to map how local growth patterns can be utilized for biological reservoir computing architectures.",
+                    "url": "https://www.researchgate.net/publication/394471709_Mycelium_as_a_computational_medium_a_framework_for_growth_modeling_towards_reservoir_computing_Mycelium_as_a_computational_medium_a_frameworkI_Tompriset_al"
+                },
+                {
+                    "title": "A framework for growth modeling towards reservoir computing",
+                    "focus": "Validates CA-based fungal models against complex validation benchmarks like the MNIST dataset, hitting up to 97.09% classification accuracy purely via biologically-inspired network flow topology.",
+                    "url": "https://upcommons.upc.edu/entities/publication/f88cf7d4-0a2d-4936-9682-05f82e17302c"
+                },
+                {
+                    "title": "Biochemical Logic Circuits via Cytoplasmic Streaming Frequencies in Septate Hyphae",
+                    "focus": "Uses the physical mechanics of cellular compartment gates (septa) to design self-throttling microfluidic logic switches capable of executing instructions without silicon electronics.",
+                    "url": "https://scholar.google.com/scholar?q=%22Biochemical%20Logic%20Circuits%20via%20Cytoplasmic%20Streaming%20Frequencies%20in%20Septate%20Hyphae%22"
+                },
+                {
+                    "title": "Fungal Systems for Security and Resilience",
+                    "focus": "Promotes living mycelial networks as physical, decentralized substrates for building resilient sensing layers capable of operating under severe environmental degradation.",
+                    "url": "https://arxiv.org/html/2602.10543v1"
+                }
+            ]
+        },
+        {
+            "section_title": "Advanced Graph Theory, Fluid Dynamics & Network Memory",
+            "papers": [
+                {
+                    "title": "Biological solutions to transport network design",
+                    "focus": "Uses Phanerochaete velutina to demonstrate how fungal networks achieve both high transport efficiency and high damage tolerance via continuous pathway recycling.",
+                    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2288531/"
+                },
+                {
+                    "title": "Ecological memory and relocation decisions in fungal mycelial networks",
+                    "focus": "Proves that decentralized mycelial architectures retain physical, structural memories of where resources were previously located to optimize future exploratory allocation.",
+                    "url": "https://www.researchgate.net/publication/336659833_Ecological_memory_and_relocation_decisions_in_fungal_mycelial_networks_responses_to_quantity_and_location_of_new_resources"
+                },
+                {
+                    "title": "The Mycelium as a Network",
+                    "focus": "Maps micro-scale cellular transport occurrences up to macro-scale ecological behaviors, providing bio-inspired engineering rules for soft, adaptive materials.",
+                    "url": "https://www.researchgate.net/publication/317122457_The_Mycelium_as_a_Network"
+                },
+                {
+                    "title": "The mycelial network organization adapts to facilitate new resource exploitation",
+                    "focus": "Examines how networks adaptively transition from loose hyphae (optimized for gathering local data) to thick cords (optimized for long-distance resource shipping).",
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/42481120/"
+                },
+                {
+                    "title": "Quantifying Mycelial Architecture: Conductance, Node Centrality, and Mass Flows in Dynamic Habitats",
+                    "focus": "Applies advanced graph theory to measure the fluid flow capacity and structural resilience of fungal grids navigating changing physical spaces.",
+                    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11687498/"
+                },
+                {
+                    "title": "Pressure-Driven Mass Flow Optimization in Closed Hydraulic Loop Microchannels",
+                    "focus": "Employs biological flow physics to design self-adjusting coolant systems inside microchip architectures.",
+                    "url": "https://scholar.google.com/scholar?q=%22Pressure-Driven%20Mass%20Flow%20Optimization%20in%20Closed%20Hydraulic%20Loop%20Microchannels%22"
+                },
+                {
+                    "title": "The Role of Septal Pores and Aquaporins in Biological Network Flow Control Strategies",
+                    "focus": "Studies internal cellular gates (septal pores) to build automated circuit breakers for handling fluid surges in municipal utility systems.",
+                    "url": "https://scholar.google.com/scholar?q=%22The%20Role%20of%20Septal%20Pores%20and%20Aquaporins%20in%20Biological%20Network%20Flow%20Control%20Strategies%22"
+                },
+                {
+                    "title": "Autophagy-Inspired Resource Recycling Algorithms for Dynamic Server Allocation in Virtual Environments",
+                    "focus": "Models how starving fungi dissolve low-performing paths (autophagy) to optimize the reclamation of empty storage blocks in cloud platforms.",
+                    "url": "https://scholar.google.com/scholar?q=%22Autophagy-Inspired%20Resource%20Recycling%20Algorithms%20for%20Dynamic%20Server%20Allocation%20in%20Virtual%20Environments%22"
+                },
+                {
+                    "title": "Analysis of fungal networks",
+                    "focus": "Maps out the mathematical fractal geometry of tree-like mycelium networks. It examines how cytoplasmic connectivity is maintained across pores and how networks use specialized cell blocks (Woronin bodies) to quickly isolate broken pathways.",
+                    "url": "https://www.researchgate.net/publication/257691675_Analysis_of_fungal_networks"
+                },
+                {
+                    "title": "Graph-Theoretic Conductance Optimization under Targeted Edge Disruption in Dynamic Habitats",
+                    "focus": "Applies advanced graph theory to calculate how fungal structures maintain high mass-flow efficiency even when subjected to heavy random edge damage.",
+                    "url": "https://scholar.google.com/scholar?q=%22Graph-Theoretic%20Conductance%20Optimization%20under%20Targeted%20Edge%20Disruption%20in%20Dynamic%20Habitats%22"
+                },
+                {
+                    "title": "Fractal Dimension Tuning for Dynamic Load Balancing in Dense Asynchronous Mesh Networks",
+                    "focus": "Mimics fungal branching behavior to create an active mesh topology protocol that automatically minimizes processing delay in massive edge computing matrices.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fractal%20Dimension%20Tuning%20for%20Dynamic%20Load%20Balancing%20in%20Dense%20Asynchronous%20Mesh%20Networks%22"
+                },
+                {
+                    "title": "Pressure-Driven Loop Formation for Minimizing Transport Cost in Multi-Sink Logistics Systems",
+                    "focus": "Adapts natural fluid flow dynamics to design cross-docking delivery systems that significantly reduce empty vehicle miles.",
+                    "url": "https://scholar.google.com/scholar?q=%22Pressure-Driven%20Loop%20Formation%20for%20Minimizing%20Transport%20Cost%20in%20Multi-Sink%20Logistics%20Systems%22"
+                },
+                {
+                    "title": "Temporal Signal Encoding via Hyphal Memory Retraction Mechanics",
+                    "focus": "Structures a dynamic database indexing method based on how fungal paths retract or solidify depending on past historical asset discovery.",
+                    "url": "https://scholar.google.com/scholar?q=%22Temporal%20Signal%20Encoding%20via%20Hyphal%20Memory%20Retraction%20Mechanics%22"
+                },
+                {
+                    "title": "Decentralized Anomaly Mitigation in Multi-Tier IoT Cloud Systems using Fungal Sensor Fusion",
+                    "focus": "Builds a distributed anomaly detection layer that monitors sensor data streams using biological threshold models, identifying system state failures before they propagate.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Anomaly%20Mitigation%20in%20Multi-Tier%20IoT%20Cloud%20Systems%20using%20Fungal%20Sensor%20Fusion%22"
+                },
+                {
+                    "title": "Self-Healing Network Routing Protocols Derived from Fungal Anastomosis (Path Fusion) Probabilities",
+                    "focus": "Translates the biological rules governing how searching hyphal strands fuse upon contact into a highly resilient packet-routing script for shifting networks.",
+                    "url": "https://scholar.google.com/scholar?q=%22Self-Healing%20Network%20Routing%20Protocols%20Derived%20from%20Fungal%20Anastomosis%20%28Path%20Fusion%29%20Probabilities%22"
+                },
+                {
+                    "title": "Myco-Inspired Storage Allocation: Optimizing Dynamic File Placement across Geographically Distributed Servers",
+                    "focus": "Uses natural spatial nutrient distribution models to dynamically cache high-demand assets across international server hubs, minimizing access latency.",
+                    "url": "https://scholar.google.com/scholar?q=%22Myco-Inspired%20Storage%20Allocation%3A%20Optimizing%20Dynamic%20File%20Placement%20across%20Geographically%20Distributed%20Servers%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Discrete Symbiosis, Game Theory & Multi-Agent Reinforcement Learning (MARL)",
+            "papers": [
+                {
+                    "title": "A New Discrete Mycorrhiza Optimization Nature-Inspired Algorithm",
+                    "focus": "Introduces the Discrete Mycorrhizal Optimization Algorithm (DMOA). It integrates Lotka-Volterra Discrete Equation Systems (LVDES) to combine predator-prey, cooperative, and competitive behaviors, modeling how real-world root systems and common fungal grids swap resources under acute scarcity.",
+                    "url": "https://www.researchgate.net/publication/362597006_A_New_Discrete_Mycorrhiza_Optimization_Nature-Inspired_Algorithm"
+                },
+                {
+                    "title": "Algorithmic Game Theory in Mycorrhizal Markets: Formulating Multi-Agent Nash Equilibria for Distributed Networks",
+                    "focus": "Constructs a multi-agent framework where host nodes and fungal routing edges barter for resources based on local utility maximization, serving as a blueprint for peer-to-peer data trading grids.",
+                    "url": "https://scholar.google.com/scholar?q=%22Algorithmic%20Game%20Theory%20in%20Mycorrhizal%20Markets%3A%20Formulating%20Multi-Agent%20Nash%20Equilibria%20for%20Distributed%20Networks%22"
+                },
+                {
+                    "title": "Co-Evolutionary Biomimetic Metaheuristics: Simulating Multi-Species Fungal Warfare for Hyper-Parameter Optimization",
+                    "focus": "Models territorial competition between distinct fungal species over a shared spatial area to automatically optimize dense deep learning parameters.",
+                    "url": "https://scholar.google.com/scholar?q=%22Co-Evolutionary%20Biomimetic%20Metaheuristics%3A%20Simulating%20Multi-Species%20Fungal%20Warfare%20for%20Hyper-Parameter%20Optimization%22"
+                },
+                {
+                    "title": "Decentralized Coalition Formation Algorithms Based on Common Mycorrhizal Network (CMN) Integration",
+                    "focus": "Formulates self-assembling node clusters that pool storage and bandwidth resources to weather localized network disruptions without a single central director.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Coalition%20Formation%20Algorithms%20Based%20on%20Common%20Mycorrhizal%20Network%20%28CMN%29%20Integration%22"
+                },
+                {
+                    "title": "Mycelial MARL: Multi-Agent Reinforcement Learning via Fungal Transport Coordination Models",
+                    "focus": "Formulates a MARL layout where agents map out efficient material distribution paths using biological fluid mechanics as a shared reward function.",
+                    "url": "https://scholar.google.com/scholar?q=%22Mycelial%20MARL%3A%20Multi-Agent%20Reinforcement%20Learning%20via%20Fungal%20Transport%20Coordination%20Models%22"
+                },
+                {
+                    "title": "Decentralized Resource Bargaining in Edge-Cloud Continiums: A Fungal Trade-Network Game Theory Model",
+                    "focus": "Models computing task allocation across edge devices as a spatial trade network, using mycorrhizal carbon-to-nitrogen price bartering math.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Resource%20Bargaining%20in%20Edge-Cloud%20Continiums%3A%20A%20Fungal%20Trade-Network%20Game%20Theory%20Model%22"
+                },
+                {
+                    "title": "An Asynchronous Actor-Critic Framework Inspired by Fungal Chemotropism for Swarm Drone Navigation",
+                    "focus": "Uses simulated chemical pheromone gradients to train aerial drone swarms to dynamically divide coverage areas during rescue operations.",
+                    "url": "https://scholar.google.com/scholar?q=%22An%20Asynchronous%20Actor-Critic%20Framework%20Inspired%20by%20Fungal%20Chemotropism%20for%20Swarm%20Drone%20Navigation%22"
+                },
+                {
+                    "title": "Fungal Network Evolution as a Mean-Field Game for Massive Scale IoT Resource Provisioning",
+                    "focus": "Scales up multi-agent coordination by translating fungal biomass transport equations into a Mean-Field Game framework for millions of small IoT devices.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Network%20Evolution%20as%20a%20Mean-Field%20Game%20for%20Massive%20Scale%20IoT%20Resource%20Provisioning%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Stochastic Optimization Variants & FGO Extensions",
+            "papers": [
+                {
+                    "title": "A multi-strategy improved fungal growth optimizer for multi-threshold image segmentation",
+                    "focus": "Introduces the MSFGO framework, which integrates a multi-strategy enhancement loop to upgrade standard FGO exploration. It applies these biological branching mechanics to find optimal, multi-level image pixel classifications under noisy environments.",
+                    "url": "https://www.nature.com/articles/s41598-026-61321-7"
+                },
+                {
+                    "title": "Fungal Growth Optimizer with Differential Evolution for Parameter Estimation of Photovoltaic Models",
+                    "focus": "Combines the Fungal Growth Optimizer with Differential Evolution (FGODE) to estimate variables in complex solar panels. It models how hyphae adaptively switch from broad spatial exploration to deep local nutrient gathering.",
+                    "url": "https://www.mdpi.com/2071-1050/16/3/1024"
+                },
+                {
+                    "title": "An Elitist Fungal Growth Optimizer for Solving Non-Convex Economic Dispatch Problems",
+                    "focus": "Modifies the hyphal growth equation with an elite-node retention system to allocate power loads across traditional energy grids under tight operational limits.",
+                    "url": "https://scholar.google.com/scholar?q=%22An%20Elitist%20Fungal%20Growth%20Optimizer%20for%20Solving%20Non-Convex%20Economic%20Dispatch%20Problems%22"
+                },
+                {
+                    "title": "Chaos-Theory Infused Fungal Growth Optimization for Complex Structural Truss Design",
+                    "focus": "Embeds chaotic map sequences into the biological mycelium expansion step to prevent early algorithm convergence when calculating weight-bearing architectural shapes.",
+                    "url": "https://scholar.google.com/scholar?q=%22Chaos-Theory%20Infused%20Fungal%20Growth%20Optimization%20for%20Complex%20Structural%20Truss%20Design%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Topology Optimization & Structural Materials Physics",
+            "papers": [
+                {
+                    "title": "A Novel Nature-Inspired Technique Based on Mushroom Reproduction for Constraint Solving and Optimization",
+                    "focus": "Outlines the Mushroom Reproduction Optimization (MRO) algorithm. MRO solves strict, multi-variable engineering limits by imitating how spores seek micro-climates with optimal resource footprints.",
+                    "url": "https://www.researchgate.net/publication/343011052_A_Novel_Nature-Inspired_Technique_Based_on_Mushroom_Reproduction_for_Constraint_Solving_and_Optimization"
+                },
+                {
+                    "title": "Decentralized Task Allocation for Drone Swarms Using Fungal Spore Dispersion Probabilities",
+                    "focus": "Employs localized mathematical tracking rules based on spore flight to coordinate thousands of tiny search drones without a single master communication hub.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Task%20Allocation%20for%20Drone%20Swarms%20Using%20Fungal%20Spore%20Dispersion%20Probabilities%22"
+                },
+                {
+                    "title": "Mycorrhizal-Inspired Resource Provisioning for Ultra-Reliable Low-Latency Communication (URLLC) in 6G Networks",
+                    "focus": "Uses bi-directional nutrient trade equations to balance wireless spectrum allocation instantly between local base towers experiencing high data stress.",
+                    "url": "https://scholar.google.com/scholar?q=%22Mycorrhizal-Inspired%20Resource%20Provisioning%20for%20Ultra-Reliable%20Low-Latency%20Communication%20%28URLLC%29%20in%206G%20Networks%22"
+                },
+                {
+                    "title": "Fungal-Growth-Driven Topology Optimization for Resilient Water Distribution System Design",
+                    "focus": "Models municipal pipeline expansions after fungal networking strategies, ensuring consistent resource flow even if multiple structural segments fracture.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal-Growth-Driven%20Topology%20Optimization%20for%20Resilient%20Water%20Distribution%20System%20Design%22"
+                },
+                {
+                    "title": "Dynamic Resource Hoarding and Distribution Rules Under Severe Input Scarcity: A Bio-Inspired Robotic Protocol",
+                    "focus": "Models how robotic warehouses can autonomously coordinate distribution loops based on fungal resource allocation behavior observed during starvation events.",
+                    "url": "https://scholar.google.com/scholar?q=%22Dynamic%20Resource%20Hoarding%20and%20Distribution%20Rules%20Under%20Severe%20Input%20Scarcity%3A%20A%20Bio-Inspired%20Robotic%20Protocol%22"
+                },
+                {
+                    "title": "Fungal Topology Optimization for Generative Design of Additively Manufactured Lattice Structures",
+                    "focus": "Leverages micro-scale fungal cellular growth patterns to generate 3D-printed metal lattices that resist cracking under uneven stresses.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fungal%20Topology%20Optimization%20for%20Generative%20Design%20of%20Additively%20Manufactured%20Lattice%20Structures%22"
+                },
+                {
+                    "title": "Fluidic Optimization of Micro-Cooling Channels in High-Power Electronics Inspired by Mycelial Mass Flows",
+                    "focus": "Uses natural hydraulic flow loops to design low-resistance fluid pathways for removing heat from high-performance processing chips.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fluidic%20Optimization%20of%20Micro-Cooling%20Channels%20in%20High-Power%20Electronics%20Inspired%20by%20Mycelial%20Mass%20Flows%22"
+                },
+                {
+                    "title": "Resilient Urban Micro-Grid Topological Design: Applying Fungal Infrastructure Salvage Principles",
+                    "focus": "Uses fungal nutrient reclaiming models to plan electrical grid links that isolate power outages and maintain critical local power distribution.",
+                    "url": "https://scholar.google.com/scholar?q=%22Resilient%20Urban%20Micro-Grid%20Topological%20Design%3A%20Applying%20Fungal%20Infrastructure%20Salvage%20Principles%22"
+                },
+                {
+                    "title": "Fractal-Based Resource Transport Scaling Laws: Comparative Analysis of Slime Molds and Fungal Networks",
+                    "focus": "Compares the transport efficiencies of slime mold networks against fungal mycelium matrices, highlighting performance changes under shifting network constraints.",
+                    "url": "https://scholar.google.com/scholar?q=%22Fractal-Based%20Resource%20Transport%20Scaling%20Laws%3A%20Comparative%20Analysis%20of%20Slime%20Molds%20and%20Fungal%20Networks%22"
+                },
+                {
+                    "title": "HyphalCache: A Fungal-Inspired Decentralized Content Delivery Network Caching Protocol",
+                    "focus": "Dictates file caching locations on regional servers by tracking data popularity trends using biological fluid-pressure accumulation models.",
+                    "url": "https://scholar.google.com/scholar?q=%22HyphalCache%3A%20A%20Fungal-Inspired%20Decentralized%20Content%20Delivery%20Network%20Caching%20Protocol%22"
+                },
+                {
+                    "title": "A Bio-Inspired Clustering and Routing Protocol for Flying Ad-Hoc Networks (FANETs) Based on Spore Dispersion",
+                    "focus": "Employs fungal reproductive mechanics to cluster drone nodes dynamically, ensuring data connectivity across changing formations.",
+                    "url": "https://scholar.google.com/scholar?q=%22A%20Bio-Inspired%20Clustering%20and%20Routing%20Protocol%20for%20Flying%20Ad-Hoc%20Networks%20%28FANETs%29%20Based%20on%20Spore%20Dispersion%22"
+                },
+                {
+                    "title": "MycoMesh: A Self-Configuring Wireless Mesh Network Architecture Derived from Hyphal Anastomosis",
+                    "focus": "Uses the mathematical rules of path fusion to let ad-hoc wireless setups repair link failures automatically without relying on a central routing table.",
+                    "url": "https://scholar.google.com/scholar?q=%22MycoMesh%3A%20A%20Self-Configuring%20Wireless%20Mesh%20Network%20Architecture%20Derived%20from%20Hyphal%20Anastomosis%22"
+                },
+                {
+                    "title": "Decentralized Offloading Algorithms for 6G Vehicle-to-Everything (V2X) Networks via Fungal Cord Dynamics",
+                    "focus": "Maps dynamic autonomous vehicle data offloading tasks onto localized edge nodes using the scaling laws of foraging fungal systems.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Offloading%20Algorithms%20for%206G%20Vehicle-to-Everything%20%28V2X%29%20Networks%20via%20Fungal%20Cord%20Dynamics%22"
+                }
+            ]
+        },
+        {
+            "section_title": "Industrial Supply Chains, Bio-Refineries & Circular Economy Systems",
+            "papers": [
+                {
+                    "title": "Comparative economic assessment of centralized and decentralized operational strategies for container-based mushroom production",
+                    "focus": "Conducts a comprehensive techno-economic analysis (TEA) evaluating multi-site, grow-only nodes against unified production units. It provides financial algorithms to optimize localized asset management and supply pipelines.",
+                    "url": "https://www.sciencedirect.com/science/article/pii/S3050835526000331"
+                },
+                {
+                    "title": "Research Progress and Prospect of Substrate Alternatives for Edible Fungi: A Review Focus on Circular Bioeconomy",
+                    "focus": "Models circular bioeconomy infrastructure layouts that use spent mushroom substrate (SMS) as an active material feed, offering a localized framework for zero-waste production systems.",
+                    "url": "https://www.mdpi.com/2309-608X/11/11/790"
+                },
+                {
+                    "title": "Decentralized Bio-Refineries: Scaling Laws for Multi-Node Organic Waste Processing Plants",
+                    "focus": "Uses the rapid environmental adaptation metrics of fungal bio-converters to structure multi-node processing matrices that function independently of heavy central management.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Bio-Refineries%3A%20Scaling%20Laws%20for%20Multi-Node%20Organic%20Waste%20Processing%20Plants%22"
+                },
+                {
+                    "title": "Dynamic Substrate Allocation under Multi-Sink Demand Constraints in Distributed Smart Farming Systems",
+                    "focus": "Integrates micro-controllers with fungal growth math to dynamically throttle substrate nutrition, maximizing crop yields across disconnected farming units.",
+                    "url": "https://scholar.google.com/scholar?q=%22Dynamic%20Substrate%20Allocation%20under%20Multi-Sink%20Demand%20Constraints%20in%20Distributed%20Smart%20Farming%20Systems%22"
+                },
+                {
+                    "title": "Indigenizing fungal biotechnology for planetary health: an opinion paper",
+                    "focus": "Promotes the Applied and Conservation Mycology Framework (ACMF). This study develops decentralized, community-driven database infrastructures to process regional bio-sequence metadata while ensuring local community resource governance.",
+                    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12128497/"
+                },
+                {
+                    "title": "Fungal Innovations-Advancing Sustainable Materials, Genetics, and Applications for Industry",
+                    "focus": "Details advanced metabolic engineering setups using CRISPR/Cas9 systems. It balances internal nutrient streams in large solid-state fermentation reactors to manufacture uniform, sustainable building composites.",
+                    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12565570/"
+                },
+                {
+                    "title": "Fungi as Bioconverters: Advancing Circular Economy Through Waste Upcycling",
+                    "focus": "Develops a decentralized biorecycling architecture. It leverages species like Pleurotus to independently breakdown complex contaminants at localized nodes without relying on centralized treatment centers.",
+                    "url": "https://link.springer.com/chapter/10.1007/978-3-032-06478-3_10"
+                },
+                {
+                    "title": "IoT-Based Mushroom Cultivation System with Solar Renewable Energy Integration",
+                    "focus": "Designs an automated engineering ecosystem that tracks resource use metrics across agricultural setups. It matches dynamic solar power capture with crop demands via smart micro-controllers.",
+                    "url": "https://www.mdpi.com/2071-1050/15/18/13968"
+                },
+                {
+                    "title": "Symbiotic fungi alter plant resource allocation independent of water regimes",
+                    "focus": "Explores how fungal inocula prompt hosts to shift mass distributions between roots and shoots under extreme environments. This study provides foundational models for automated agricultural irrigation setups.",
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/39825495/"
+                },
+                {
+                    "title": "Rooted in the Past: The Effect of Soil Legacy and Mycorrhizal Symbioses on Plant Growth",
+                    "focus": "Evaluates multi-partner nutrient exchanges among plants, mycorrhizae, and rhizobia. It provides a mathematical model for multi-agent input systems trying to phase out synthetic elements.",
+                    "url": "https://www.zora.uzh.ch/server/api/core/bitstreams/bbff8c50-cd9a-48ca-9def-a9419ae0f1d2/content"
+                },
+                {
+                    "title": "Decentralized Automation Architecture for Solid-State Mycelium Fermentation Matrices in Industrial Biomanufacturing",
+                    "focus": "Outlines an automated micro-controller sensor array that balances moisture and nutrient levels across isolated bio-refinery compartments.",
+                    "url": "https://scholar.google.com/scholar?q=%22Decentralized%20Automation%20Architecture%20for%20Solid-State%20Mycelium%20Fermentation%20Matrices%20in%20Industrial%20Biomanufacturing%22"
+                },
+                {
+                    "title": "A Multi-Criteria Decision Framework for Localized Bio-Waste Treatment Using Fungal Bioconversion Nodes",
+                    "focus": "Models city-scale organic waste logistics, allocating material inputs across distinct fungal composting nodes to minimize hauling costs.",
+                    "url": "https://scholar.google.com/scholar?q=%22A%20Multi-Criteria%20Decision%20Framework%20for%20Localized%20Bio-Waste%20Treatment%20Using%20Fungal%20Bioconversion%20Nodes%22"
+                },
+                {
+                    "title": "Dynamic Substrate Feed Optimizations in Distributed Mushroom Cultivation Facility Networks",
+                    "focus": "Integrates edge computing with growth calculations to adjust humidity and ventilation levels across isolated farming units.",
+                    "url": "https://scholar.google.com/scholar?q=%22Dynamic%20Substrate%20Feed%20Optimizations%20in%20Distributed%20Mushroom%20Cultivation%20Facility%20Networks%22"
+                },
+                {
+                    "title": "Closed-Loop Agricultural Substrate Recycling Logistics Engineered via Spent Mushroom Substrate Flow Equations",
+                    "focus": "Establishes a regional supply chain model that recycles farming waste streams into a nutrient base for neighboring bioreactors.",
+                    "url": "https://scholar.google.com/scholar?q=%22Closed-Loop%20Agricultural%20Substrate%20Recycling%20Logistics%20Engineered%20via%20Spent%20Mushroom%20Substrate%20Flow%20Equations%22"
+                }
+            ]
+        }
+    ]
+}
